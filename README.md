@@ -1,2 +1,2 @@
-# request-service
-Client requests processing, price and taxes calculations
+# order-service
+Client order processing, price and taxes calculations
